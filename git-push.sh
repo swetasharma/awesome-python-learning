@@ -11,3 +11,5 @@ else
     echo "Pushing data to remote server!!!"
     git push -u origin master
 fi
+
+#https://thomas-cokelaer.info/blog/2011/05/awk-the-substr-command-to-select-a-substring/
